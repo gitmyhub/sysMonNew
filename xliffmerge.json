@@ -1,0 +1,9 @@
+{
+    "xliffmergeOptions": {
+      "srcDir": "projects/sysmon/locale",
+      "genDir": "projects/sysmon/locale",
+      "defaultLanguage": "en",
+      "i18nFile": "messages.xlf",
+      "useSourceAsTarget": true
+    }
+  }
